@@ -1,0 +1,22 @@
+{
+  "task": "Phenikaa Campus Courier v2",
+  "split": "train",
+  "profile": "standard",
+  "rows": 20000,
+  "scenes": 2000,
+  "robots": 10,
+  "actions": {
+    "0": "UP",
+    "1": "DOWN",
+    "2": "LEFT",
+    "3": "RIGHT"
+  },
+  "styles": {
+    "classic": 520,
+    "night": 506,
+    "print": 478,
+    "sketch": 496
+  },
+  "has_labels": true,
+  "has_scene_annotations": true
+}
